@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Home",
+        "link": "#home",
+        "class": "main"
+    },
+    {
+        "id": 2,
+        "name": "Sobre",
+        "link": "#servicos",
+        "class": "main"
+    },
+    {
+        "id": 3,
+        "name": "Produtos",
+        "link": "#servicos",
+        "class": "main"
+    },
+    {
+        "id": 4,
+        "name": "Contato",
+        "link": "#servicos",
+        "class": "main"
+    }
+]
